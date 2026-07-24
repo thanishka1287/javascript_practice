@@ -1,0 +1,11 @@
+let studentname="thanishka";
+let age=20;
+let city="Hyderabad";
+const college="Ace Engineering College";
+console.log(studentname);
+console.log(age);
+console.log(city);
+console.log(college);
+age=21;
+console.log(age);
+console.log(college);
