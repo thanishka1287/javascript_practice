@@ -1,0 +1,11 @@
+let score=50;
+score+=20;
+console.log(score);
+score-=10;
+console.log(score);
+score*=2;
+console.log(score);
+score/=4;
+console.log(score);
+score%=6;
+console.log(score);
